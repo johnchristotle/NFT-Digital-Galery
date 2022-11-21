@@ -1,6 +1,6 @@
 
 ## Live Site
-* https://movie-wiki-app.vercel.app/
+* https://nft-digital-galery-1z8a.vercel.app/
 
 ## Screenshot
 * ![Screenshoot 1](./src/screenshot/nftp1.jpg)
